@@ -9,6 +9,14 @@
 - Embed C&C botnet into the discord client.
 - Working trought websocket c&c server.
 
+# How to use.
+
+1. Inject payload in `C:\Users\<username>\AppData\Local\<Discord_client_name>\app-x.xx.xxxx\modules\discord_desktop_core-1\discord_desktop_core\index.js`.
+3. Start cnc.
+4. Restart discord.
+
+`http <ip> <port> <time>`
+
 -----
 
 <p align='center'>
